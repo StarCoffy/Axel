@@ -22,11 +22,6 @@ body
  text-align: center;
  background-color: #fcfefc;
 }
-#inicio
-{ 
-  margin-top: 7%;
-  user-select: none;
-}
 #voltar 
 {
   user-select: none;
@@ -35,6 +30,11 @@ body
   left: 1%;
   visibility: hidden;
 } 
+#inicio
+{ 
+  user-select: none;
+  margin-top: 7%;
+}
 #passar
 {
   user-select: none;
