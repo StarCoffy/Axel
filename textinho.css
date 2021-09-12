@@ -3,6 +3,7 @@ body
  background-color:#fcfefc;
  background-repeat: no-repeat;
  background-size: 100vw;
+ background-size: 100vh;
  overflow: hidden;
 }
 #start 
