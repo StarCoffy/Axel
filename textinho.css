@@ -2,8 +2,7 @@ body
 {
  background-color:#fcfefc;
  background-repeat: no-repeat;
- background-size: 100vw;
- background-size: 135vh;
+ background-size: 100vw,100vh;
  overflow: hidden;
 }
 #start 
