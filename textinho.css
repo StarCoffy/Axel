@@ -2,7 +2,7 @@ body
 {
  background-color:#fcfefc;
  background-repeat: no-repeat;
- background-size: cover;
+ background-size: 100vw;
  overflow: hidden;
 }
 #start 
