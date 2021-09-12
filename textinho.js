@@ -69,7 +69,7 @@ function passar()
  if(pages==1)
  {
    const tudo=document.getElementById("tudo");
-   body.style.backgroundImage="url('imgs/fundotextp1.png')";
+   tudo.style.backgroundImage="url('imgs/fundotextp1.png')";
   setavoltar.style.visibility="hidden";
      fundo.play();
  }
